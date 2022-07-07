@@ -28,9 +28,9 @@
 # the delivery of this work
 ################################################################################
 header:
-  productName: REPLACEME
-  productionDescription: REPLACEME
-  whoIsItFor: REPLACEME
+  productName: SPecification Portal
+  productionDescription: Provide small businesses with a comprehensive specification solution.
+  whoIsItFor: Provide small businesses with a comprehensive bill pay solution.
   image: 
     link: "/assets/images/Fiserv_Logo.jpg"
     altText: REPLACEME™
