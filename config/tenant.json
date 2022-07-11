@@ -1,6 +1,6 @@
 {
   "title": "Specifications Portal",
-  "name": "Specifications Portal",
+  "name": "SpecificationsPortal",
   "brand": "Fiserv",
   "brandLogoURL": "https://raw.githubusercontent.com/Fiserv/Developer-Portal-Tenant-API/develop/assets/images/Fiserv_Logo.jpg",
   "solution": ["merchants"],
