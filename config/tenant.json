@@ -68,7 +68,8 @@
       "assignees": "kcaramat"
     },
     "enhancement": {
-      "label": "enhancement,CommerceHub",
+      "label": "enhancement,Specifications Portal",
+",
       "template": "feature.md",
       "assignees": "kcaramat"
     }
