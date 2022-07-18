@@ -38,11 +38,7 @@
 - sections:
   - title: Getting Started
     link: docs/introduction/getting-started.md
-    open: true
-- sections:
-  - title: Getting Started1
-    link: docs/introduction/getting-started.md
-    open: true    
+    open: true   
 - sections:
     - title: Buypass
       link:
@@ -52,10 +48,10 @@
           link: docs/introduction/overview.md
           open: true
           sections:
-             - title: ATL105
-               link: docs/introduction/overview.md
+            - title: ATL105
+              link: docs/introduction/overview.md
           sections:
-             - title: Host and Cotroller
-               link: docs/introduction/overview.md
-          - title: Settlement
-            link: docs/introduction/overview.md
+            - title: Host and Cotroller
+              link: docs/introduction/overview.md
+        - title: Settlement
+          link: docs/introduction/overview.md
