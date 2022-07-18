@@ -39,4 +39,8 @@
   - title: Getting Started
     link: docs/introduction/getting-started.md
     open: true
+- sections:
+  - title: Getting Started1
+    link: docs/introduction/getting-started.md
+    open: true    
    
