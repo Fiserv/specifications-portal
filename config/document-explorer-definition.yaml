@@ -63,3 +63,18 @@
           sections:
             - title: Host and Cotroller
               link: docs/introduction/overview.md         
+- sections:
+    - title: Compass
+      link:
+      open: true
+      sections:
+        - title: Authorization
+          link: docs/introduction/overview.md
+          open: true
+          sections:
+            - title: Compass Batch
+              link: docs/introduction/overview.md
+              open: true
+            - title: Compass Online
+              link: docs/introduction/overview.md
+              open: true              
