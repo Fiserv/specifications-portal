@@ -50,8 +50,16 @@
           sections:
             - title: ATL105
               link: docs/introduction/overview.md
+              open: true
           sections:
             - title: Host and Cotroller
               link: docs/introduction/overview.md
         - title: Settlement
           link: docs/introduction/overview.md
+          sections:
+            - title: ATL105
+              link: docs/introduction/overview.md
+              open: true
+          sections:
+            - title: Host and Cotroller
+              link: docs/introduction/overview.md         
