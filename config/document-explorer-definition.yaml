@@ -53,16 +53,7 @@
               open: true
           sections:
             - title: Host and Cotroller
-              link: docs/introduction/overview.md
-        - title: Settlement
-          link: docs/introduction/overview.md
-          sections:
-            - title: ATL105
-              link: docs/introduction/overview.md
-              open: true
-          sections:
-            - title: Host and Cotroller
-              link: docs/introduction/overview.md         
+              link: docs/introduction/overview.md      
 - sections:
     - title: Compass
       link:
@@ -78,3 +69,13 @@
             - title: Compass Online
               link: docs/introduction/overview.md
               open: true              
+        - title: Settlement
+          link: docs/introduction/overview.md
+          open: true
+          sections:
+            - title: Compass XML Batch
+              link: docs/introduction/overview.md
+              open: true
+            - title: Compass XML Online
+              link: docs/introduction/overview.md
+              open: true  
