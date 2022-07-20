@@ -35,8 +35,7 @@
         - title: Overview
           link: docs/introduction/overview.md
         - title: Getting Started
-          link: docs/introduction/getting-started.md
-          
+          link: docs/introduction/getting-started.md          
     - title: Buypass
       open: true    
       sections:
@@ -44,7 +43,6 @@
           link: docs/Bypass/ATL105.md
         - title: Host and Cotroller
           link: docs/introduction/overview.md  
-
     - title: Compass
       link: docs/documentation/documentation.md
       open: true
@@ -57,7 +55,6 @@
           link: docs/introduction/overview.md        
         - title: Compass XML Online
           link: docs/introduction/overview.md
-
     - title: Nashville
       link: docs/introduction/overview.md
       open: true
