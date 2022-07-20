@@ -46,7 +46,7 @@
           link: docs/introduction/overview.md  
 
     - title: Compass
-      link: docs/introduction/overview.md
+      link: docs/documentation/documentation.md
       open: true
       sections:
         - title: Compass Batch
