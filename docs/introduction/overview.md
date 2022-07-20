@@ -1,7 +1,7 @@
 
-## Overview of the Specifications Portal
+# Overview of the Specifications Portal
 
-## Welcome to the Specifications Portal!
+## Welcome to the Specifications Portal
 
 
 The First Data Specifications Web site helps you find specifications documents to support First Data merchant customers.
