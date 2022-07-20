@@ -41,22 +41,17 @@
     open: true   
 - sections:
     - title: Buypass
-      link:
+      link: docs/introduction/overview.md
       open: true
       sections:
-        - title: Authorization
+        - title: ATL105
           link: docs/introduction/overview.md
           open: true
-          sections:
-            - title: ATL105
-              link: docs/introduction/overview.md
-              open: true
-          sections:
-            - title: Host and Cotroller
-              link: docs/introduction/overview.md      
+        - title: Host and Cotroller
+          link: docs/introduction/overview.md  
 - sections:
     - title: Compass
-      link:
+      link: docs/introduction/overview.md
       open: true
       sections:
         - title: Compass Batch
