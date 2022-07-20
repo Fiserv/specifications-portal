@@ -30,36 +30,31 @@
 
 - sections:
     - title: Introduction
-      link:
-      open: true
+      open: true    
       sections:
         - title: Overview
           link: docs/introduction/overview.md
-- sections:
-  - title: Getting Started
-    link: docs/introduction/getting-started.md
-    open: true   
-- sections:
+        - title: Getting Started
+          link: docs/introduction/getting-started.md
+          
     - title: Buypass
-      link: docs/introduction/overview.md
-      open: true
+      open: true    
       sections:
         - title: ATL105
           link: docs/introduction/overview.md
-          open: true
         - title: Host and Cotroller
           link: docs/introduction/overview.md  
-- sections:
+
     - title: Compass
       link: docs/introduction/overview.md
       open: true
       sections:
         - title: Compass Batch
           link: docs/introduction/overview.md
-          open: true            
         - title: Compass Online
           link: docs/introduction/overview.md
         - title: Compass XML Batch
           link: docs/introduction/overview.md        
         - title: Compass XML Online
           link: docs/introduction/overview.md
+ 
